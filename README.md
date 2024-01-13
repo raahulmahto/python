@@ -1,0 +1,1 @@
+This is a beginner and frienly level project for computer vision for python and machine learning programmers. You can add this into your projects which will enhance your learning and add value to your coding profile, resume and interview preparations.
